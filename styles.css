@@ -1,0 +1,35 @@
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #63B3ED;
+    color: #FFFFFF;
+}
+
+h1{
+    font-size: 36px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    color: #48BB78
+}
+
+p{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#Author{
+    color:#555e6b
+}
+
+header img {
+    max-width:10% ;
+    border-radius: 50%;
+}
+
+
